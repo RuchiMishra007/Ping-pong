@@ -44,3 +44,10 @@ h4
     line-height: 2;
     text-align: center;
  }
+
+ canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
